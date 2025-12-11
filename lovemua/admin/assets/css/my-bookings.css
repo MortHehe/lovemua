@@ -1,0 +1,25 @@
+/* Location styling */
+.booking-details .location {
+    color: #666;
+    font-size: 0.9rem;
+    line-height: 1.4;
+}
+
+/* Notes styling */
+.booking-details .notes-row {
+    border-top: 1px dashed #e0e0e0;
+    padding-top: 8px;
+    margin-top: 8px;
+}
+
+.booking-details .notes {
+    color: #777;
+    font-size: 0.85rem;
+    font-style: italic;
+    line-height: 1.4;
+}
+
+/* Truncate long text */
+.booking-details .detail-row span {
+    word-break: break-word;
+}
